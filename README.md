@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vinícius Joaquim
 
-**`Desenvolvedo FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena. Atualmente, estou cursando JavaScrip e TypeScript na Udemy. 
 <!-- Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)". -->
