@@ -171,7 +171,7 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
 <img
       align="left"
       alt="GitHub Stats"
-      height="200"
+      height="190"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-J&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
