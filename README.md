@@ -2,24 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena. Atualmente, estou cursando JavaScrip e TypeScript na Udemy. 
-<!-- Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)". -->
+<p>Olá 👋! Meu nome é Vinícius Joaquim, um desenvolvedor FullStack, atualmente cursando sobre JavaScript e TypeScript através da plataforma da Udemy.</p>
 
-<p align="left">
-    <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> -->
-    <!-- <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>  -->
+<div align="left">
     <a href="https://github.com/Vinicius-J?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -34,7 +19,7 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
             src="https://custom-icon-badges.demolab.com/github/followers/Vinicius-J?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</div>
 
 ---
 
@@ -81,14 +66,12 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img align="right" height="150" src="https://imgflip.com/i/9cbd2z"/>
-
-<br/>
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/gif/9bacb1)"  />
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left"
     alt="GitHub Stats"
@@ -101,11 +84,15 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
       align="left"
       alt="GitHub Stats"
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-J&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-J&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+
+ <!-- <img align="right" height="150" src="https://i.imgflip.com/9cbfsd.gif" /> -->
+  
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vinicius-J/Vinicius-J/output/snake.svg" alt="Snake animation" />
+### 🖥️ Portifólio
 
-###
+- [Projeto 1](https://www.youtube.com/watch?v=TsaLQAetPLU&t=1112s)
