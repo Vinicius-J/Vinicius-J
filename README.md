@@ -66,8 +66,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/gif/9bacb1)"  />
-<br/>
+<br clear="both">
 
 ### 📊 Estatísticas
 
@@ -93,6 +92,10 @@
 
 <br clear="both">
 
-### 🖥️ Portifólio
+<!-- ### 🖥️ Portifólio
 
-- [Projeto 1](https://www.youtube.com/watch?v=TsaLQAetPLU&t=1112s)
+- [Projeto 1](#)
+- [Projeto 2](#)
+- [Projeto 3](#)
+- [Projeto 4](#)
+- [Projeto 5](#) -->
