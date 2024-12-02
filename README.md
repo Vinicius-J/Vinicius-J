@@ -81,79 +81,7 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/gif/9bacb1)"  />
-<!-- <img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> -->
+<img align="right" height="150" src="https://imgflip.com/i/9cbd2z"/>
 
 <br/>
 <br/>
@@ -173,9 +101,7 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
       align="left"
       alt="GitHub Stats"
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-J&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-J&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 <br clear="both">
