@@ -80,6 +80,8 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/gif/9bacb1)"  />
 <!-- <img 
     align="left" 
     alt="React"
@@ -175,3 +177,9 @@ Me chamo Vinícius Joaquim dos Santos, tenho 22 anos e sou natural de Barbacena.
   />
 
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Vinicius-J/Vinicius-J/output/snake.svg" alt="Snake animation" />
+
+###
