@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Vinícius Joaquim
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
-<p>Olá 👋! Meu nome é Vinícius Joaquim, um desenvolvedor FullStack, atualmente cursando sobre JavaScript e TypeScript através da plataforma da Udemy.</p>
+<p>Olá 👋! Meu nome é Vinícius Joaquim, um desenvolvedor Front-end, atualmente cursando sobre JavaScript e TypeScript através da plataforma da Udemy.</p>
 
 <div align="left">
     <a href="https://github.com/Vinicius-J?tab=repositories&sort=stargazers">
