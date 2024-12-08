@@ -21,12 +21,12 @@
     </a>
 </div>
 
-<img align="center" 
+<!-- <img align="center" 
 alt="background" 
 title="Dark Souls" 
 width="100%" 
 style="padding: 10px;" 
-src="./src/Arte Conceitual Guerreiro.gif">
+src="./src/Arte Conceitual Guerreiro.gif"> -->
 
 ---
 
