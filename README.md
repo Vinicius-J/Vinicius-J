@@ -19,6 +19,11 @@
             src="https://custom-icon-badges.demolab.com/github/followers/Vinicius-J?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/vinicius-j" target="_blank">
+        <img 
+        target="_blank"
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
 </div>
 
 <!-- <img align="center" 
