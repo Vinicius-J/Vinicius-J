@@ -21,13 +21,20 @@
     </a>
 </div>
 
+<img align="center" 
+alt="background" 
+title="Dark Souls" 
+width="100%" 
+style="padding: 10px;" 
+src="./src/Arte Conceitual Guerreiro.gif">
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
