@@ -68,7 +68,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vinicius-J/Vinicius-J/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+<!-- <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
 
@@ -77,7 +77,7 @@
     src="https://profile-counter.glitch.me/Vinicius-J/count.svg"
     alt="Número de visitantes no perfil"
   />
-</p>
+</p> -->
 
  <!-- <img align="right" height="150" src="https://i.imgflip.com/9cbfsd.gif" /> -->
   
