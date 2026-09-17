@@ -1,8 +1,8 @@
 ## Vinícius Joaquim
 
-**`Full Stack Developer`**
+**`Back End Developer`**
 
-<p>Hello 👋! My name is Vinícius Joaquim, a Full Stack developer.</p>
+<p>Hello 👋! My name is Vinícius Joaquim, a Back End developer.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-j/)&nbsp;
 
@@ -29,11 +29,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
----
+<!-- ---
 
 ### Projects
 
@@ -42,9 +39,9 @@
 - [Result summary](https://github.com/Vinicius-J/results-summary-component-main)
 - [Product preview card](https://github.com/Vinicius-J/product-preview-card-component-main)
 
----
+ ---
 
-### Status:
+ ### Status:
 
 <div>
   <img 
@@ -84,10 +81,3 @@
 </div>
 
 <br clear="both">
-
-<!-- ### 🖥️ Portifólio
-
-- [Projeto 1](#)
-- [Projeto 2](#)
-- [Projeto 3](#)
-- [Projeto 4](#) -->
